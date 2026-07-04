@@ -1,26 +1,23 @@
-# Отчеты о покрытии (Coverage), которые мы сгенерировали
+
 htmlcov/
 .coverage
 .coverage.*
 coverage.xml
-*.txt
-*.md
 
-# Кэш тестирования pytest
-.pytest_cache/
+pytest_cache/
 .allure_backend_cache/
 
-# Кэш Python компиляции
+
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Виртуальное окружение (если создавали локально)
+
 venv/
 .venv/
 env/
 
-# Настройки вашей среды разработки (IDE)
+
 .idea/
 .vscode/
 *.suo
