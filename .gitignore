@@ -6,6 +6,8 @@ coverage.xml
 
 pytest_cache/
 .allure_backend_cache/
+.pytest_cache/
+.pytest_cache/
 
 
 __pycache__/
